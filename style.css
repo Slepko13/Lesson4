@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    margin: 0 250px;
+}
+
+ul li {
+    display: inline;
+}
+
+header {
+    background-color: brown;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+h1 {
+    color: white;
+}
+
+div {
+    text-align: left;
+    font-size: 18px;
+}
+
+li img {
+    border: 2px dotted black;
+}
+
+/*img {
+    width: 100%;
+
+}*/
+
+.sunset {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 20px;
+}
+
+/*
+.foto {
+    border: 3px solid red;
+    text-align: center;
+
+}*/
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+}
