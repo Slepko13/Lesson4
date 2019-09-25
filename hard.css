@@ -1,0 +1,112 @@
+.container {
+    background-color: #990909;
+    margin: 0 100px;
+    padding-bottom: 7px;
+}
+
+.images {
+    background-color: black;
+
+    padding-top: 10px;
+    margin: 0 5px;
+}
+
+.gallery {
+    margin: 5px 30px;
+
+    display: inline-block;
+    width: 20%;
+}
+
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+
+    text-align: center;
+    color: white;
+}
+
+
+.flex-container {
+    display: flex;
+
+}
+
+.flex-element {
+    align-self: flex-start;
+    height: 350px;
+
+    margin: 5px;
+}
+
+.first-elem {
+    background-color: #7D0909;
+    flex-basis: 35%;
+
+}
+
+.nobull {
+    list-style-type: none;
+    padding: 0 0;
+    font-size: 18px;
+}
+
+.first-elem a {
+    color: #E65810;
+    margin-bottom: 25px;
+}
+
+.second-elem {
+
+    flex-basis: 85%;
+}
+
+.third-elem {
+    background-color: azure;
+    flex-basis: 25%;
+
+}
+
+.aside-list p {
+    border-bottom: 1px solid #D3D3D3;
+    width: 50%;
+    margin: auto;
+}
+
+.third-elem div {
+    margin: 25px 5px;
+    ;
+}
+
+.aside-title {
+    color: black;
+    background-color: #D3D3D3;
+    text-align: center;
+    margin-top: auto;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    color: white;
+    font-size: 18px;
+}
+
+aside {
+    color: black;
+    font-size: 18px;
+}
+
+footer {
+    color: #ffffff;
+    background-color: #f36d38;
+    margin: 10px 5px;
+    font-size: 20px;
+    text-align: center;
+}
